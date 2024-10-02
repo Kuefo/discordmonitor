@@ -1,4 +1,4 @@
-# discord-monitor
+# Discord Monitor
 A script to monitor a bots status. (idle, dnd, offline, online)
 
 # Prerequisites
